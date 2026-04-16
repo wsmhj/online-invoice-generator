@@ -1,0 +1,17 @@
+{
+  "name": "online-invoice-generator",
+  "version": "1.0.0",
+  "description": "JavaScript library for generating professional invoices with line items, tax calculation, and PDF export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["invoice", "generator", "billing", "pdf", "tax"],
+  "author": "wsmhj",
+  "license": "MIT",
+  "homepage": "https://invoicegenerator.run",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsmhj/online-invoice-generator.git"
+  }
+}
